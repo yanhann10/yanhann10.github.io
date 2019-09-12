@@ -3,7 +3,7 @@
 .RData
 .Ruserdata
 .DS_Store
-=======
+
 # Logs
 logs
 *.log
@@ -65,4 +65,3 @@ typings/
 
 # next.js build output
 .next
->>>>>>> a019d0581c9e946bc1d598a0e9fbf507bd1a8ede
