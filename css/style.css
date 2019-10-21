@@ -1042,7 +1042,8 @@ button:focus {
   margin-bottom: 0px;
   font-size: 18px;
   line-height: 26px;
-  text-transform: uppercase;
+  vertical-align: middle;
+  margin: 10px;
   color: #fff;
   position: relative;
 }
@@ -1067,7 +1068,7 @@ button:focus {
 
 .categories_post:hover .categories_details {
   background: #e45447;
-  opacity: .6;
+  opacity: 0.6;
 }
 
 .categories_post:hover h5 {
