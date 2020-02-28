@@ -718,7 +718,12 @@ button:focus {
 }
 
 .portfolio_details_inner .portfolio_right_text {
-  margin-top: 50px;
+  /* margin-top: 50px; */
+}
+
+
+.portfolio_details_inner .left_img {
+  padding: 6px;
 }
 
 @media (max-width: 991px) {
@@ -1042,8 +1047,7 @@ button:focus {
   margin-bottom: 0px;
   font-size: 18px;
   line-height: 26px;
-  vertical-align: middle;
-  margin: 10px;
+  text-transform: uppercase;
   color: #fff;
   position: relative;
 }
@@ -1068,7 +1072,7 @@ button:focus {
 
 .categories_post:hover .categories_details {
   background: #e45447;
-  opacity: 0.6;
+  opacity: .6;
 }
 
 .categories_post:hover h5 {
