@@ -16,7 +16,7 @@ Author E-mail: naimlasker@gmail.com
 /*font Variables*/
 /*Color Variables*/
 /*=================== fonts ====================*/
-@import url("https://fonts.googleapis.com/css?family=Poppins:700|Roboto:400,500,500i");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
@@ -28,10 +28,10 @@ Author E-mail: naimlasker@gmail.com
 /*----------------------------------------------------*/
 body {
   line-height: 24px;
-  font-size: 14px;
+  font-size: 16px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  color: #777777;
+  color: #333;
 }
 
 body.elements {
@@ -990,7 +990,7 @@ button:focus {
 }
 
 .single-recent-blog-post .date {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   font-weight: 400;
 }
